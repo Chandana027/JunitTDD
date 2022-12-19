@@ -1,4 +1,4 @@
-package com.bosch.java;
+package com.tddJunit.java;
 
 import static org.junit.Assert.*;
 
